@@ -1,1 +1,2 @@
 # Nhom-8---NLP
+Chatbot nấu ăn này được xây dựng nhằm hỗ trợ người dùng gợi ý món ăn và cung cấp công thức dựa trên nguyên liệu sẵn có. Hệ thống sử dụng mô hình NLP (BERT) để nhận diện ý định và trích xuất thực thể (nguyên liệu, món ăn), sau đó ánh xạ sang tiếng Anh để truy vấn dữ liệu từ API TheMealDB. Kết quả được xử lý qua cơ chế xếp hạng theo tiêu chí như nhanh, lành mạnh hoặc ngon, giúp đề xuất phù hợp với nhu cầu người dùng. Chatbot còn hỗ trợ lựa chọn món và tự động dịch công thức sang tiếng Việt, mang lại trải nghiệm tiện lợi và thực tế.
